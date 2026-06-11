@@ -19,7 +19,7 @@
 [2-3 sentences in plain language describing the risk and recommendation]
 
 **Recommendation:**
-- [ ] Option A: [Brief description]
+- [ ] Option A: [Brief description] b
 - [ ] Option B: [Brief description]
 - [ ] Option C: [Brief description]
 - [ ] Option D: [Brief description]
